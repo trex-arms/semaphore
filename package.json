@@ -1,0 +1,30 @@
+{
+  "name": "@trex-arms/semaphore",
+  "version": "1.0.0",
+  "description": "A small promise-based semaphore library",
+  "type": "module",
+  "main": "index.mjs",
+  "scripts": {
+    "test": "uvu"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trex-arms/semaphore.git"
+  },
+  "keywords": [
+    "semaphore",
+    "promise",
+    "mutex",
+    "lock",
+    "async"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/trex-arms/semaphore/issues"
+  },
+  "homepage": "https://github.com/trex-arms/semaphore#readme",
+  "devDependencies": {
+    "uvu": "^0.5.1"
+  }
+}
